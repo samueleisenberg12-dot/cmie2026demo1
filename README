@@ -10,4 +10,4 @@ We added a fifth line to this file.
 
 We added a sixth line to this file.
 
-We added a seventh line variant A to this file.
+We added a seventh line variant A and B to this file.
